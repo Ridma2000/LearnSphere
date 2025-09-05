@@ -1,0 +1,9 @@
+com\learnsphere\entity\User.class
+com\learnsphere\app\App.class
+com\learnsphere\service\LearnSphereService$SessionWork.class
+com\learnsphere\service\LearnSphereService.class
+com\learnsphere\entity\Course.class
+com\learnsphere\entity\Review.class
+com\learnsphere\entity\Enrollment.class
+com\learnsphere\entity\Category.class
+com\learnsphere\util\HibernateUtil.class
